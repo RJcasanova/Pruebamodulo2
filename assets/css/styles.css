@@ -1,0 +1,74 @@
+.carousel-img-size {
+  height: 100vh;
+}
+.navbar-brand {
+  font-size: 2rem;
+  margin: -20px 100px 0;
+}
+.navbar-brand img {
+  max-width: 30px;
+  height: auto;
+}
+.navbar-nav {
+  margin-right: 100px;
+}
+
+body{
+  background-color: black;
+}
+.icon-white{
+  color: white;
+}
+
+h2 {
+  order: 0;
+  width: 100%;
+  color: #fff;
+  text-align: center;
+  background-color: black;
+}
+
+
+
+.contact-section {
+  background-color: #000;
+  color: #fff;
+  padding: 20px;
+}
+
+.tooltip {
+  display: none;
+  background-color: #000;
+  color: #fff;
+  padding: 10px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+.contact-section {
+  background-color: #000;
+}
+
+.contact-content {
+  margin-left: 200px;
+}
+
+.contact-content h2 {
+  margin-left: -100px;
+  margin-top: 20px;
+}
+#contact-form input,
+#contact-form textarea {
+  width: 90%;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+}
+
+#submit-button {
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 200px;
+}
